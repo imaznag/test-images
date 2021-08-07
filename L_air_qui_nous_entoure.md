@@ -36,8 +36,9 @@ Dans l’atmosphère terrestre on distingue quatre couches d’altitude différe
 - C’est la couche la plus chaude dans l’atmosphère terrestre.
 - Sa température très élevée peut atteindre 2000 °C.
 - Cette couche joue un rôle essentiel pour la télécommunication sans fils.
-  > Remarque
-  > La pression atmosphérique diminue avec l’altitude dans l’atmosphère terrestre.
+
+> Remarque
+> La pression atmosphérique diminue avec l’altitude dans l’atmosphère terrestre.
 
 ### 2. Mouvement de l’air dans l’atmosphère :
 
@@ -46,8 +47,9 @@ Dans l’atmosphère terrestre on distingue quatre couches d’altitude différe
 ##### Explication
 
 Si la température augmente dans une zone alors son air s'échauffe, et devient léger celui-ci se dirige vers le haut, par conséquent la pression de cette zone diminue (Dépression D)
-Quand la température diminue, l’air se refroidit puis il descend et par conséquent se forme une zone å haute pression
-(anticyclone A)
+
+Quand la température diminue, l’air se refroidit puis il descend et par conséquent se forme une zone å haute pression (anticyclone A)
+
 La différence de pression entre deux zones provoque un mouvement horizontal de l'air d'une zone de haute pression vers une autre de basse pression et ce mouvement d'air s'appelle le vent.
 
 ##### Conclusion
