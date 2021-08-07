@@ -1,4 +1,4 @@
-<h1 class='text-4xl font-bold text-red-500'>L’air qui nous entoure</h1>
+<h1 class='text-4xl font-bold text-red-500 text-center shadow-md'>L’air qui nous entoure</h1>
 
 <h4 class='font-bold text-blue-500'>Introduction</h4>
 
@@ -39,7 +39,7 @@ Dans l’atmosphère terrestre on distingue quatre couches d’altitude différe
 
 <h4 class='font-bold text-blue-500'>Remarque</h4>
 
-> La pression atmosphérique diminue avec l’altitude dans l’atmosphère terrestre.
+<blockquote>La pression atmosphérique diminue avec l’altitude dans l’atmosphère terrestre.</blockquote>
 
 <h2 class='text-2xl font-bold text-red-500'>2. Mouvement de l’air dans l’atmosphère :</h2>
 
@@ -55,5 +55,5 @@ La différence de pression entre deux zones provoque un mouvement horizontal de 
 
 <h3 class='text-lg font-bold text-green-500'>Conclusion</h3>
 
-> Le vent est un mouvement de l’air d’une zone de haute pression vers une zone de basse pression.
+<blockquote>Le vent est un mouvement de l’air d’une zone de haute pression vers une zone de basse pression.</blockquote>
 
