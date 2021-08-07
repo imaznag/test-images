@@ -1,24 +1,24 @@
 <h1 class='text-4xl font-bold text-red-500'>L’air qui nous entoure</h1>
 
-<h4>Introduction</h4>
+<h4 class='font-bold text-blue-500'>Introduction</h4>
 
 L’atmosphère terrestre est une enveloppe gazeuse qui entoure notre planète, sur une
 épaisseur moyenne de 800km environ.
 
-<h2>1. Les couches de l’atmosphère terrestre</h2>
+<h2 class='text-2xl font-bold text-red-500'>1. Les couches de l’atmosphère terrestre</h2>
 
 Dans l’atmosphère terrestre on distingue quatre couches d’altitude différentes.
 
 <img src='https://github.com/imaznag/test-images/blob/main/couches_atmospheriques.png?raw=true' alt ='couches atmospheriques'>
 
-<h3>1. La Troposphère :</h3>
+<h3 class='text-lg font-bold text-green-500'>1. La Troposphère :</h3>
 
 - Son épaisseur moyenne de 15km environ.
 - Elle contient 90% de l’air contenu dans l’atmosphère terrestre.
 - Dans cette couche se déroulent les principaux phénomènes météorologiques (précipitation, vent, nuage, orages...).
 - Sa température diminue avec l’altitude de 15 °C jusqu’à -56 °C.
 
-<h3>2. La stratosphère :</h3>
+<h3 >2. La stratosphère :</h3>
 
 - Son épaisseur est 35km environ.
 - Sa température augmente avec l’altitude de -56 °C jusqu’à 0 °C.
