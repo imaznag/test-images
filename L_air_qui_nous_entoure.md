@@ -5,7 +5,7 @@
 L’atmosphère terrestre est une enveloppe gazeuse qui entoure notre planète, sur une
 épaisseur moyenne de 800km environ.
 
-<h2 class='text-2xl font-bold text-red-500'>1. Les couches de l’atmosphère terrestre</h2>
+<h2 class='text-2xl font-bold text-red-400'>1. Les couches de l’atmosphère terrestre</h2>
 
 Dans l’atmosphère terrestre on distingue quatre couches d’altitude différentes.
 
