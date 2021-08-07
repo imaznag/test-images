@@ -1,6 +1,6 @@
 # L’air qui nous entoure
 
-## Introduction
+##### Introduction
 
 L’atmosphère terrestre est une enveloppe gazeuse qui entoure notre planète, sur une
 épaisseur moyenne de 800km environ.
