@@ -1,4 +1,4 @@
-<h1 class='text-4xl font-bold text-center shadow-md'>L’air qui nous entoure</h1>
+<h1 class='text-4xl font-bold text-center mt-4 shadow-md'>L’air qui nous entoure</h1>
 
 <h4 class='font-bold text-blue-500'>Introduction</h4>
 
