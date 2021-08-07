@@ -9,7 +9,7 @@ L’atmosphère terrestre est une enveloppe gazeuse qui entoure notre planète, 
 
 Dans l’atmosphère terrestre on distingue quatre couches d’altitude différentes.
 
-![couche_de_l_atmo](https://github.com/imaznag/test-images/blob/main/couches_atmospheriques.png?raw=true)
+<img src='https://github.com/imaznag/test-images/blob/main/couches_atmospheriques.png?raw=true'>
 
 #### 1. La Troposphère :
 
